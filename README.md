@@ -9,7 +9,7 @@
 Projeto construído do evento Next Level Week da Rocketseat.
 
 
-[ 🔗 Clique aqui para acessar](https://VinnySoares12.github.io/NLW-eSports)
+[ 🔗 Clique aqui para acessar](https://vinnysoares12project.netlify.app)
 
 
 
